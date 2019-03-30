@@ -1,0 +1,12 @@
+Public Place,Distance(km),Duration(mins),"User Rating(1-Poor,5-Excellent)",open_at_night,Weightage
+Women Police Station,0.8,5,5,Yes,1
+Police Station,1,7,5,Yes,0.9
+Mall,1.1,10,4,No,0.7
+NGO,1.1,8,4,No,0.6
+Traffic Control Room,1.3,14,3,No,0.8
+Busy Junctions,1.2,14,3,No,0.5
+Moving Patrol,0.9,9,5,Yes,0.9
+24/7 Hospital,1.4,8,5,Yes,1
+Clinic,1.3,6,4,No,0.7
+24/7 Petrol Bunk,1.4,10,5,Yes,1
+Regular Petrol Bunk,1.2,12,3,No,0.7
